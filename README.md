@@ -12,9 +12,6 @@ That combination shapes what I want to build: Salesforce that isn't just powerfu
 
 That's the gap I keep coming back to: Salesforce has genuinely made "clicks, not code" possible — but there's still real distance between that promise and something a non-technical person could actually pick up and trust on their own. Closing that distance is what I want to spend my career on.
 
-### 🔭 Currently exploring
-
-Salesforce CLI, Git workflows, and writing my first Apex test classes — moving from purely declarative builds into code.
 
 ### 🛠️ Skills
 
