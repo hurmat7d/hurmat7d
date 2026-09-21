@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Hurmat 👋</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00A1E0&center=true&vCenter=true&width=600&lines=Salesforce+Admin+%7C+Developer;Building+real+systems%2C+not+just+tutorials;Learning+the+platform's+trickiest+corners" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A1E0,100:1B96FF&height=180&section=header&text=Hi,%20I'm%20Hurmat&fontSize=45&fontColor=ffffff&desc=Salesforce%20Admin%20%7C%20Developer&descSize=18&descAlignY=65" alt="header banner" />
 </p>
 
 ---
@@ -14,12 +12,9 @@ That combination shapes what I want to build: Salesforce that isn't just powerfu
 
 That's the gap I keep coming back to: Salesforce has genuinely made "clicks, not code" possible — but there's still real distance between that promise and something a non-technical person could actually pick up and trust on their own. Closing that distance is what I want to spend my career on.
 
-### 🗂️ Projects
+### 🔭 Currently exploring
 
-| Project | Description |
-|---|---|
-| [**Task Board**](https://github.com/hurmat7d/Task-Board) | JIRA-style task tracker — Custom Objects, Validation Rules, role-based permissions, Record-Triggered Flow automation |
-| **Mortgage Application Portal** | Data model & Apex logic project modeled on real mortgage broker workflows |
+Salesforce CLI, Git workflows, and writing my first Apex test classes — moving from purely declarative builds into code.
 
 ### 🛠️ Skills
 
@@ -29,10 +24,8 @@ That's the gap I keep coming back to: Salesforce has genuinely made "clicks, not
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### 📊 GitHub Stats
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hurmat7d&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" width="450"/>
+  <a href="mailto:YOUR_EMAIL_HERE">Email</a> · <a href="YOUR_LINKEDIN_URL_HERE">LinkedIn</a>
 </p>
-
----
