@@ -36,5 +36,3 @@ That's the gap I keep coming back to: Salesforce has genuinely made "clicks, not
 </p>
 
 ---
-
-<p align="center">📫 Open to Salesforce Admin/Developer opportunities</p>
